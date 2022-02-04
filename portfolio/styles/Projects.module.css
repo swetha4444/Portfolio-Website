@@ -27,6 +27,6 @@
 .certifiates{
     margin: auto;
     padding: 20px;
-    width: 60%;
-    height: 20%;
+    width: fit-content;
+    height: fit-content;
 }

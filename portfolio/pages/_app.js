@@ -11,9 +11,12 @@ function MyApp({ Component, pageProps }) {
     <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
     <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
     <link href="https://unpkg.com/nes.css/css/nes-core.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r79/three.min.js"></script>
   </Head>
   <Component {...pageProps} />
   </>
 }
+
+
 
 export default MyApp

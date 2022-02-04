@@ -2,7 +2,7 @@ import styles from "../styles/Projects.module.css"
 import Navigation from './navigation'
 import "nes.css/css/nes.min.css";
 import {Carousel,CarouselItem} from 'react-bootstrap';
-import one from "../images/exp.png"
+
 
 function Projects()
 {
@@ -176,13 +176,12 @@ function Projects()
             <a href="#" class="nes-badge"><span class="is-success">SVM</span></a>&nbsp;&nbsp;
         </div>
 
-        <br/><br/>
+        <br/><br/> <br/><br/>
         <h2 className={styles.title}>Certifications</h2>
         <div class="nes-container is-rounded is-dark">
           <Carousel className={styles.certifiates}>
             <Carousel.Item interval={1000}>
               <img
-                className="d-block w-100"
                 src="https://media.discordapp.net/attachments/758339851996233730/939271156001808424/2.JPG?width=790&height=594"
                 alt="First slide"
               />
@@ -190,7 +189,6 @@ function Projects()
 
             <Carousel.Item interval={1000}>
               <img
-                className="d-block w-100"
                 src="https://media.discordapp.net/attachments/758339851996233730/939271156245074010/3.JPG"
                 alt="Second slide"
               />
@@ -198,7 +196,6 @@ function Projects()
 
             <Carousel.Item interval={1000}>
               <img
-                className="d-block w-100"
                 src="https://media.discordapp.net/attachments/758339851996233730/939271156488339497/4.JPG?width=795&height=594"
                 alt="Third slide"
               />
@@ -206,7 +203,6 @@ function Projects()
 
             <Carousel.Item interval={1000}>
               <img
-                className="d-block w-100"
                 src="https://media.discordapp.net/attachments/758339851996233730/939271156731617290/5.JPG?width=794&height=593"
                 alt="Fourth slide"
               />
@@ -214,7 +210,6 @@ function Projects()
 
             <Carousel.Item interval={1000}>
               <img
-                className="d-block w-100"
                 src="https://media.discordapp.net/attachments/758339851996233730/939271157046202408/6.JPG?width=795&height=594"
                 alt="Fifth slide"
               />
@@ -222,7 +217,6 @@ function Projects()
 
             <Carousel.Item interval={1000}>
               <img
-                className="d-block w-100"
                 src="https://media.discordapp.net/attachments/758339851996233730/939271157327216690/7.JPG?width=800&height=594"
                 alt="Sixth slide"
               />
@@ -230,7 +224,6 @@ function Projects()
 
             <Carousel.Item interval={1000}>
               <img
-                className="d-block w-100"
                 src="https://media.discordapp.net/attachments/758339851996233730/939271157687939102/8.JPG?width=806&height=594"
                 alt="Seventh slide"
               />
@@ -238,16 +231,12 @@ function Projects()
 
             <Carousel.Item interval={1000}>
               <img
-                className="d-block w-100"
                 src="https://media.discordapp.net/attachments/758339851996233730/939271158036041799/1.JPG?width=788&height=594"
                 alt="Eighth slide"
               />
             </Carousel.Item>
           </Carousel>
         </div>
-
-        
-
       </div>
     </div>
 }
