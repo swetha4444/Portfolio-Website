@@ -1,0 +1,12 @@
+.container {
+    background: url("../images/exp.png");
+    height: fit-content;
+    padding: 50px
+  }
+
+.head{
+    color: rgb(78, 54, 185);
+    text-align: center;
+    font-size: xx-large;
+}
+  

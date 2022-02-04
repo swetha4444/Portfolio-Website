@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+.link{
+    color: #34dd5e;
+    font-family: VT323 monospace;
+    padding: 20px;
+}
+
+.background{
+    background-image: url('../images/intro-bg.gif') no-repeat center center fixed;
+    ;
+}
+
