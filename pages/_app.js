@@ -12,9 +12,10 @@ function MyApp({ Component, pageProps }) {
     <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
     <link href="https://unpkg.com/nes.css/css/nes-core.min.css" rel="stylesheet" />
     <link href="path/to/file.ext" crossOrign="anonymous" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r79/three.min.js"></script>
+    <script  src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r79/three.min.js"></script>
   </Head>
   <Component {...pageProps} />
+
   </>
 }
 
