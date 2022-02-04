@@ -11,10 +11,10 @@ function Projects()
       <div className={styles.container}>
         <br/><br/>
         <h2 className={styles.title}>My Projects</h2>
-        <div class="nes-container is-dark with-title">
-          <p class="title">Resume Analyser and Parser</p>
+        <div className="nes-container is-dark with-title">
+          <p className="title">Resume Analyser and Parser</p>
               <div className = {styles.projectImage}>
-                {/* <p class="nes-balloon from-left nes-pointer"> */}
+                {/* <p className="nes-balloon from-left nes-pointer"> */}
                   <a href="https://github.com/swetha4444/Resume-Analyser-Software" target={"_blank"}>
                     <video>
                       <source src={"https://user-images.githubusercontent.com/68152189/122644103-1ae8d000-d131-11eb-9f0b-13990ddfe8b3.mp4"} type="video/mp4"/>
@@ -32,16 +32,16 @@ function Projects()
               keyword filters.
             </p>        
             <br/>
-            <a href="#" class="nes-badge"><span class="is-success">NLP</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Text Classification</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">Knowledge Graph</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">Keyword Extraction</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Data Analysis</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">NLP</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Text Classification</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Knowledge Graph</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Keyword Extraction</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Data Analysis</span></a>&nbsp;&nbsp; 
         </div>        
-        <div class="nes-container is-dark with-title">
-          <p class="title">Twitter Analyser</p>
+        <div className="nes-container is-dark with-title">
+          <p className="title">Twitter Analyser</p>
               <div className = {styles.projectImage}>
-                {/* <p class="nes-balloon from-left nes-pointer"> */}
+                {/* <p className="nes-balloon from-left nes-pointer"> */}
                   <a href="https://github.com/swetha4444/TwitterAnalysis-Product-Review" target={"_blank"}>
                     <video>
                       <source src={"https://user-images.githubusercontent.com/68152189/120896833-d80efe80-c640-11eb-9b0f-021009a3fec5.mp4"} type="video/mp4"/>
@@ -55,18 +55,18 @@ function Projects()
              produdct using state-of-the-art techniques.
             </p>        
             <br/>
-            <a href="#" class="nes-badge"><span class="is-success">NLP</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Text Classification</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">BERT Transformers</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">APIs</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Data Analysis</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Wordcloud</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Data Mining</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">NLP</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Text Classification</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">BERT Transformers</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">APIs</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Data Analysis</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Wordcloud</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Data Mining</span></a>&nbsp;&nbsp; 
         </div>       
-        <div class="nes-container is-dark with-title">
-          <p class="title">COVID Distancing and Mask Detection</p>
+        <div className="nes-container is-dark with-title">
+          <p className="title">COVID Distancing and Mask Detection</p>
               <div className = {styles.projectImage}>
-                {/* <p class="nes-balloon from-left nes-pointer"> */}
+                {/* <p className="nes-balloon from-left nes-pointer"> */}
                   <a href="https://github.com/swetha4444/Zenith-COV19" target={"_blank"}>
                     <img src="https://media.discordapp.net/attachments/758339851996233730/939263655709642823/unknown.png?width=858&height=594"></img>
                   </a>
@@ -88,16 +88,16 @@ function Projects()
               like YOLO and FACE-NET to achieve the same through Computer Vision.
             </p>        
             <br/>
-            <a href="#" class="nes-badge"><span class="is-success">Computer Vision</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Object Recognition</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">Face Net</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">YOLO</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Data Augmentation</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Computer Vision</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Object Recognition</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Face Net</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">YOLO</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Data Augmentation</span></a>&nbsp;&nbsp; 
         </div>                
-        <div class="nes-container is-dark with-title">
-          <p class="title">Image Compression using K-Means and Autoencoders</p>
+        <div className="nes-container is-dark with-title">
+          <p className="title">Image Compression using K-Means and Autoencoders</p>
               <div className = {styles.projectImage}>
-                {/* <p class="nes-balloon from-left nes-pointer"> */}
+                {/* <p className="nes-balloon from-left nes-pointer"> */}
                   <a href="https://github.com/swetha4444/Image-Compression-using-K-Means-Clustering-and-Autoencoders" target={"_blank"}>
                     <img src="https://github.com/swetha4444/Image-Compression-using-K-Means-Clustering-and-Autoencoders/blob/main/Outputs/ae%20app%202.PNG?raw=true"></img>
                   </a>
@@ -108,14 +108,14 @@ function Projects()
               using Flask.
             </p>        
             <br/>
-            <a href="#" class="nes-badge"><span class="is-success">Image Compression</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Flask</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">Machine Learning</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Image Compression</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Flask</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Machine Learning</span></a>&nbsp;&nbsp;
         </div>                 
-        <div class="nes-container is-dark with-title">
-          <p class="title">Expense Tracker</p>
+        <div className="nes-container is-dark with-title">
+          <p className="title">Expense Tracker</p>
               <div className = {styles.projectImage}>
-                {/* <p class="nes-balloon from-left nes-pointer"> */}
+                {/* <p className="nes-balloon from-left nes-pointer"> */}
                   <a href="https://github.com/swetha4444/Expense-Tracker" target={"_blank"}>
                     <img src="https://github.com/swetha4444/Expense-Tracker/raw/96ee2eeb7ca1eb74e636510bd9703feecfefb826/ezgif.com-gif-maker%20(1).gif"></img>
                   </a>
@@ -129,14 +129,14 @@ function Projects()
               <b>Web Browser:</b> Google Chrome, Microsoft Edge<br/>
             </p>        
             <br/>
-            <a href="#" class="nes-badge"><span class="is-success">Full Stack</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">MERN Stack</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">Data Analysis</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Full Stack</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">MERN Stack</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Data Analysis</span></a>&nbsp;&nbsp;
         </div>                
-        <div class="nes-container is-dark with-title">
-          <p class="title">Payroll Management System</p>
+        <div className="nes-container is-dark with-title">
+          <p className="title">Payroll Management System</p>
               <div className = {styles.projectImage}>
-                {/* <p class="nes-balloon from-left nes-pointer"> */}
+                {/* <p className="nes-balloon from-left nes-pointer"> */}
                   <a href="https://github.com/swetha4444/Payroll-Management-System" target={"_blank"}>
                     <img src="https://media.discordapp.net/attachments/758339851996233730/939268528836608070/unknown.png"></img>
                   </a>
@@ -149,15 +149,15 @@ function Projects()
               be an additional advantage and management of power based on their free time from his normal duty.
             </p>        
             <br/>
-            <a href="#" class="nes-badge"><span class="is-success">Agile Development</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Python</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">SRS Documentation</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">Dialogflow Chatbot</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Agile Development</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Python</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">SRS Documentation</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Dialogflow Chatbot</span></a>&nbsp;&nbsp;
         </div>               
-        <div class="nes-container is-dark with-title">
-          <p class="title">CV Attendance System</p>
+        <div className="nes-container is-dark with-title">
+          <p className="title">CV Attendance System</p>
               <div className = {styles.projectImage}>
-                {/* <p class="nes-balloon from-left nes-pointer"> */}
+                {/* <p className="nes-balloon from-left nes-pointer"> */}
                   <a href="https://github.com/swetha4444/CV-Attendance-System" target={"_blank"}>
                     <img src="https://media.discordapp.net/attachments/758339851996233730/939269628792832030/unknown.png"></img>
                   </a>
@@ -170,15 +170,15 @@ function Projects()
               so that one image can be distinguished from another and to predict who the person is.
             </p>        
             <br/>
-            <a href="#" class="nes-badge"><span class="is-success">Computer Vision</span></a>&nbsp;&nbsp; 
-            <a href="#" class="nes-badge"><span class="is-success">Image dataset creation</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">Image Processing</span></a>&nbsp;&nbsp;
-            <a href="#" class="nes-badge"><span class="is-success">SVM</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Computer Vision</span></a>&nbsp;&nbsp; 
+            <a href="#" className="nes-badge"><span className="is-success">Image dataset creation</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Image Processing</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">SVM</span></a>&nbsp;&nbsp;
         </div>
 
         <br/><br/> <br/><br/>
         <h2 className={styles.title}>Certifications</h2>
-        <div class="nes-container is-rounded is-dark">
+        <div className="nes-container is-rounded is-dark">
           <Carousel className={styles.certifiates}>
             <Carousel.Item interval={1000}>
               <img

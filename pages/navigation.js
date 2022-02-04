@@ -1,4 +1,3 @@
-
 import styles from '../styles/Navigation.module.css'
 import { ChakraProvider } from "@chakra-ui/react";
 import React, {Component} from 'react';

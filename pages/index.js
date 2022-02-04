@@ -9,7 +9,7 @@ export default function Home() {
         <Navigation></Navigation>
         <div className={styles.container}>
           <br/><br/><br/>
-          <h1 className={styles.title}>Hi! I am Swetha!  <i class="nes-kirby"></i></h1>
+          <h1 className={styles.title}>Hi! I am Swetha!  <i className="nes-kirby"></i></h1>
           <h2 className={styles.subtitle}><span className={styles.text_1}>Aspiring Data Scientist</span><span className={styles.text_2}>Software Developer</span></h2>
           <h1 className={styles.about}>As a self-driven individual with good inter-personal skills, 
           can easily adapt to any work environment, open for exciting roles and have a fascination for Data Science. 
@@ -79,11 +79,11 @@ export default function Home() {
           </div>
           <br/><br/>
           <div className={styles.socials}>
-            <a href="https://twitter.com/swethasaseendr2" target={"_blank"}><i class="nes-icon twitter is-large"></i></a>
-            <a href="" target={"_blank"}><i class="nes-icon medium is-large"></i></a>
-            <a href="https://github.com/swetha4444" target={"_blank"}><i class="nes-icon github is-large"></i></a>
-            <a href="mailto:swethasaseendran4@gmail.com"><i class="nes-icon gmail is-large"></i></a>
-            <a href="https://www.linkedin.com/in/swetha-saseendran-794749194/" target={"_blank"}><i class="nes-icon linkedin is-large"></i></a>
+            <a href="https://twitter.com/swethasaseendr2" target={"_blank"}><i className="nes-icon twitter is-large"></i></a>
+            <a href="" target={"_blank"}><i className="nes-icon medium is-large"></i></a>
+            <a href="https://github.com/swetha4444" target={"_blank"}><i className="nes-icon github is-large"></i></a>
+            <a href="mailto:swethasaseendran4@gmail.com"><i className="nes-icon gmail is-large"></i></a>
+            <a href="https://www.linkedin.com/in/swetha-saseendran-794749194/" target={"_blank"}><i className="nes-icon linkedin is-large"></i></a>
           </div>
         </div> 
     </div>
