@@ -33,7 +33,7 @@ const Navigation = (props) => {
         >
             <Flex align="center" mr={5}>
                 <Heading as="h1" size="lg" letterSpacing={"tighter"} fontFamily={"VT323 monospace"}>
-                    Swetha's Portfolio
+                    Swetha&apos;s Portfolio
                 </Heading>
             </Flex>
     

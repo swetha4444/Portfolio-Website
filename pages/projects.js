@@ -27,7 +27,7 @@ function Projects()
               The resume parser converts an unstructured form of resume data 
               into a structured format, it extracts it into machine-readable output like CSV.
               Automated resume screening increases quality of hire by reducing false positives
-              because candidates can't trick the system through keyword stuffing. It also reduces
+              because candidates can&apos;t trick the system through keyword stuffing. It also reduces
               false negatives because candidates with good qualifications no longer slip through the
               keyword filters.
             </p>        
@@ -73,7 +73,7 @@ function Projects()
               </div>
             <p>
               The world today is shaken by the deadly virus that has bought the fast moving 
-              lives of today's modern society to an absolute stand still. Two science-backed 
+              lives of today&apos;s modern society to an absolute stand still. Two science-backed 
               methods to limit the spread of the raging infection are: Maintaining social 
               distance and Wearing Masks.<br/>
               These measures bring down the pressure on healthcare resources and persona,
@@ -142,7 +142,7 @@ function Projects()
                   </a>
               </div>
             <p>
-              A database management software for managing employee's payroll. It's designed to organize all the 
+              A database management software for managing employee&apos;s payroll. It&apos;s designed to organize all the 
               tasks of employee payment and calculating wages, deductions. Created using HTML, CSS, Python (Django) 
               and MySQL . Finally, we can say that this system will not only automate the process but save the 
               valuable time of the manager or the admin, which can be well utilized by his institute. This will 
