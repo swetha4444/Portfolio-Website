@@ -80,7 +80,7 @@ export default function Home() {
           <br/><br/>
           <div className={styles.socials}>
             <a href="https://twitter.com/swethasaseendr2" target={"_blank"} rel="noreferrer"><i className="nes-icon twitter is-large"></i></a>
-            <a href="" target={"_blank"}><i className="nes-icon medium is-large"></i></a>
+            <a href="" target={"_blank"} rel="noreferrer" ><i className="nes-icon medium is-large"></i></a>
             <a href="https://github.com/swetha4444" target={"_blank"}><i className="nes-icon github is-large"></i></a>
             <a href="mailto:swethasaseendran4@gmail.com"><i className="nes-icon gmail is-large"></i></a>
             <a href="https://www.linkedin.com/in/swetha-saseendran-794749194/" target={"_blank"} rel="noreferrer"><i className="nes-icon linkedin is-large"></i></a>
