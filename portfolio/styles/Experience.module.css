@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
 .container {
     background: url("../images/exp.png");
     height: fit-content;
-    padding: 50px
+    padding: 50px;
+    font-family: VT323 monospace;
   }
 
 .head{

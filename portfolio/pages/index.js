@@ -7,12 +7,12 @@ export default function Home() {
     <div>
         <Navigation></Navigation>
         <div className={styles.container}>
-          <br/><br/><br/><br/><br/>
+          <br/><br/><br/>
           <h1 className={styles.title}>Hi! I am Swetha!  <i class="nes-kirby"></i></h1>
           <h2 className={styles.subtitle}><span className={styles.text_1}>Aspiring Data Scientist</span><span className={styles.text_2}>Software Developer</span></h2>
           <h1 className={styles.about}>As a self-driven individual with good inter-personal skills, 
           can easily adapt to any work environment, open for exciting roles and have a fascination for Data Science. 
-          Also intrested in Software Development. Intrested to planning and designing all the way to solving real-life problems with code.
+          Also intrested in Software Development and everyday automation. Intrested in planning and designing all the way to solving real-life problems with code.
           </h1>
           <br/><br/>
           <div className={styles.terminal}>

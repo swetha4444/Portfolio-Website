@@ -51,7 +51,7 @@ const Navigation = (props) => {
             mt={{ base: 4, md: 0 }}
             >
                 <Link href="."><a className={styles.link}>HOME</a></Link>
-                <Link href="./projects"><a className={styles.link}>PROJECTS</a></Link>
+                <Link href="./projects"><a className={styles.link}>WORKS</a></Link>
                 <Link href="./experience"><a className={styles.link}>EXPERIENCE</a></Link>
             </Stack>
         </Flex>
