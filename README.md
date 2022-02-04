@@ -1,4 +1,5 @@
 # Portfolio-Website
+![image](https://user-images.githubusercontent.com/68152189/152618434-49492cfc-fcb8-4852-a1b3-2d49d92c4615.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
