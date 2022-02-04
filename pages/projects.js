@@ -15,7 +15,7 @@ function Projects()
           <p className="title">Resume Analyser and Parser</p>
               <div className = {styles.projectImage}>
                 {/* <p className="nes-balloon from-left nes-pointer"> */}
-                  <a href="https://github.com/swetha4444/Resume-Analyser-Software" target={"_blank"}>
+                  <a href="https://github.com/swetha4444/Resume-Analyser-Software" target={"_blank"} rel="noopener">
                     <video>
                       <source src={"https://user-images.githubusercontent.com/68152189/122644103-1ae8d000-d131-11eb-9f0b-13990ddfe8b3.mp4"} type="video/mp4"/>
                     </video>
@@ -42,7 +42,7 @@ function Projects()
           <p className="title">Twitter Analyser</p>
               <div className = {styles.projectImage}>
                 {/* <p className="nes-balloon from-left nes-pointer"> */}
-                  <a href="https://github.com/swetha4444/TwitterAnalysis-Product-Review" target={"_blank"}>
+                  <a href="https://github.com/swetha4444/TwitterAnalysis-Product-Review" target={"_blank"} rel="noopener">
                     <video>
                       <source src={"https://user-images.githubusercontent.com/68152189/120896833-d80efe80-c640-11eb-9b0f-021009a3fec5.mp4"} type="video/mp4"/>
                     </video>
@@ -67,7 +67,7 @@ function Projects()
           <p className="title">COVID Distancing and Mask Detection</p>
               <div className = {styles.projectImage}>
                 {/* <p className="nes-balloon from-left nes-pointer"> */}
-                  <a href="https://github.com/swetha4444/Zenith-COV19" target={"_blank"}>
+                  <a href="https://github.com/swetha4444/Zenith-COV19" target={"_blank"} rel="noopener">
                     <img src="https://media.discordapp.net/attachments/758339851996233730/939263655709642823/unknown.png?width=858&height=594"></img>
                   </a>
               </div>
@@ -98,7 +98,7 @@ function Projects()
           <p className="title">Image Compression using K-Means and Autoencoders</p>
               <div className = {styles.projectImage}>
                 {/* <p className="nes-balloon from-left nes-pointer"> */}
-                  <a href="https://github.com/swetha4444/Image-Compression-using-K-Means-Clustering-and-Autoencoders" target={"_blank"}>
+                  <a href="https://github.com/swetha4444/Image-Compression-using-K-Means-Clustering-and-Autoencoders" target={"_blank"} rel="noopener">
                     <img src="https://github.com/swetha4444/Image-Compression-using-K-Means-Clustering-and-Autoencoders/blob/main/Outputs/ae%20app%202.PNG?raw=true"></img>
                   </a>
               </div>
@@ -116,7 +116,7 @@ function Projects()
           <p className="title">Expense Tracker</p>
               <div className = {styles.projectImage}>
                 {/* <p className="nes-balloon from-left nes-pointer"> */}
-                  <a href="https://github.com/swetha4444/Expense-Tracker" target={"_blank"}>
+                  <a href="https://github.com/swetha4444/Expense-Tracker" target={"_blank"} rel="noopener">
                     <img src="https://github.com/swetha4444/Expense-Tracker/raw/96ee2eeb7ca1eb74e636510bd9703feecfefb826/ezgif.com-gif-maker%20(1).gif"></img>
                   </a>
               </div>
@@ -137,7 +137,7 @@ function Projects()
           <p className="title">Payroll Management System</p>
               <div className = {styles.projectImage}>
                 {/* <p className="nes-balloon from-left nes-pointer"> */}
-                  <a href="https://github.com/swetha4444/Payroll-Management-System" target={"_blank"}>
+                  <a href="https://github.com/swetha4444/Payroll-Management-System" target={"_blank"} rel="noopener">
                     <img src="https://media.discordapp.net/attachments/758339851996233730/939268528836608070/unknown.png"></img>
                   </a>
               </div>
@@ -158,7 +158,7 @@ function Projects()
           <p className="title">CV Attendance System</p>
               <div className = {styles.projectImage}>
                 {/* <p className="nes-balloon from-left nes-pointer"> */}
-                  <a href="https://github.com/swetha4444/CV-Attendance-System" target={"_blank"}>
+                  <a href="https://github.com/swetha4444/CV-Attendance-System" target={"_blank"} rel="noopener">
                     <img src="https://media.discordapp.net/attachments/758339851996233730/939269628792832030/unknown.png"></img>
                   </a>
               </div>
