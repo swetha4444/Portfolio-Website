@@ -53,7 +53,7 @@ const Navigation = (props) => {
                 <Link href="."><a className={styles.link}>HOME</a></Link>
                 <Link href="./projects"><a className={styles.link}>WORKS</a></Link>
                 <Link href="./experience"><a className={styles.link}>EXPERIENCE</a></Link>
-                <a href="../Swetha_Saseendran_Resume.pdf" className={styles.link} download>RESUME</a>
+                <a href="https://cdn.discordapp.com/attachments/758339851996233730/939287991132778506/Swetha_Saseendran_Resume.pdf" className={styles.link} download>RESUME</a>
             </Stack>
         </Flex>
     </ChakraProvider>
