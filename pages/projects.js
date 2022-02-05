@@ -2,6 +2,7 @@ import styles from "../styles/Projects.module.css"
 import Navigation from './navigation'
 import "nes.css/css/nes.min.css";
 import {Carousel,CarouselItem} from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';   
 
 
 function Projects()

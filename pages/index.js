@@ -1,6 +1,7 @@
 import styles from '../styles/Home.module.css'
 import Navigation from './navigation'
 import "nes.css/css/nes.min.css";
+import 'bootstrap/dist/css/bootstrap.min.css';   
 
 export default function Home() {
 
