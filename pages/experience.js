@@ -62,7 +62,7 @@ function Experience()
                 </p>
             </VerticalTimelineElement>
         </VerticalTimeline>
-        
+        <progress className="nes-progress is-pattern" value="100" max="100"></progress>
         </div>
     </div>
 }
