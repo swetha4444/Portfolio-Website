@@ -16,6 +16,21 @@
     text-align: center;
     text-decoration-style:dotted;
 }
+
+.menu {
+    font-size: 1.5rem;
+    color: #34dd5e;
+    text-align: center;
+    text-decoration-style:dotted;
+    border-radius: 2em;
+    border: #373808;
+    border-style:groove ;
+    border-width: 5px;
+    position: fixed;
+    z-index: 100;
+    background-color: black;
+    font-family: monospace;
+}
   
 .projectImage{
     margin: auto;
@@ -29,4 +44,8 @@
     padding: 20px;
     width: fit-content;
     height: fit-content;
+}
+
+.publishLinks{
+    display: inline-block;
 }
