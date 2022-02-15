@@ -250,8 +250,8 @@ function Projects()
           <p className="title">Classification of Hate Speech and Offensive Content using an approach based on DistilBERT</p>
             <p>
               <b>Publisher:</b> CEUR-FIRE 2021&nbsp;
-              <span className={styles.publishLinks}><a href="https://github.com/swetha4444/HASOC2021" target={"_blank"}><Icon.FaGithub /></a></span>&nbsp;
-              <span className={styles.publishLinks}><a href="https://arxiv.org/ftp/arxiv/papers/2112/2112.09301.pdf" target={"_blank"}><Icon.FaExternalLinkAlt /></a></span>
+              <span className={styles.publishLinks}><a href="https://github.com/swetha4444/HASOC2021" target={"_blank"} rel="noreferrer"><Icon.FaGithub /></a></span>&nbsp;
+              <span className={styles.publishLinks}><a href="https://arxiv.org/ftp/arxiv/papers/2112/2112.09301.pdf" target={"_blank"}rel="noreferrer"><Icon.FaExternalLinkAlt /></a></span>
               <br/>
               S. Saseendran, S. R, S. V, S. Giri, Classification of Hate Speech and Offensive Content using an
                approach based on DistilBERT, in: Forum for Information Retrieval Evaluation(Working Notes) (FIRE), CEUR-WS.org, 2021.
