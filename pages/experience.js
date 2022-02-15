@@ -2,6 +2,7 @@ import Navigation from './navigation'
 import styles from '../styles/Experience.module.css'
 import { VerticalTimeline, VerticalTimelineElement,WorkIcon,SchoolIcon,StarIcon }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
+import "nes.css/css/nes.min.css";
 
 function Experience()
 {
@@ -61,6 +62,7 @@ function Experience()
                 </p>
             </VerticalTimelineElement>
         </VerticalTimeline>
+        <progress className="nes-progress is-pattern" value="100" max="100"></progress>
         </div>
     </div>
 }

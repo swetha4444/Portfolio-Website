@@ -2,6 +2,11 @@ import styles from "../styles/Projects.module.css"
 import Navigation from './navigation'
 import "nes.css/css/nes.min.css";
 import {Carousel,CarouselItem} from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';   
+import { Menu, MenuItem, MenuButton, SubMenu } from '@szhsin/react-menu';
+import '@szhsin/react-menu/dist/core.css';
+import * as Icon from 'react-icons/fa';
+
 
 
 function Projects()
@@ -10,7 +15,7 @@ function Projects()
       <Navigation></Navigation>
       <div className={styles.container}>
         <br/><br/>
-        <h2 className={styles.title}>My Projects</h2>
+        <h2 className={styles.title} id="projectsID">My Projects</h2>
         <div className="nes-container is-dark with-title">
           <p className="title">Resume Analyser and Parser</p>
               <div className = {styles.projectImage}>
@@ -176,8 +181,8 @@ function Projects()
             <a href="#" className="nes-badge"><span className="is-success">SVM</span></a>&nbsp;&nbsp;
         </div>
 
-        <br/><br/> <br/><br/>
-        <h2 className={styles.title}>Certifications</h2>
+        <br/><br/>
+        <h2 className={styles.title} id="certificatesID">Certifications</h2>
         <div className="nes-container is-rounded is-dark">
           <Carousel className={styles.certifiates}>
             <Carousel.Item interval={1000}>
@@ -237,6 +242,23 @@ function Projects()
             </Carousel.Item>
           </Carousel>
         </div>
+
+        <br/><br/>
+        <h2 className={styles.title} id="publicationsID">Publications</h2>
+        <br/>
+        <div className="nes-container is-dark with-title">
+          <p className="title">Classification of Hate Speech and Offensive Content using an approach based on DistilBERT</p>
+            <p>
+              <b>Publisher:</b> CEUR-FIRE 2021&nbsp;
+              <span className={styles.publishLinks}><a href="https://github.com/swetha4444/HASOC2021" target={"_blank"} rel="noreferrer"><Icon.FaGithub /></a></span>&nbsp;
+              <span className={styles.publishLinks}><a href="https://arxiv.org/ftp/arxiv/papers/2112/2112.09301.pdf" target={"_blank"}rel="noreferrer"><Icon.FaExternalLinkAlt /></a></span>
+              <br/>
+              S. Saseendran, S. R, S. V, S. Giri, Classification of Hate Speech and Offensive Content using an
+               approach based on DistilBERT, in: Forum for Information Retrieval Evaluation(Working Notes) (FIRE), CEUR-WS.org, 2021.
+              <br/><b>(Accepted. Yet to be published)</b>
+              <br/>
+            </p>        
+        </div>   
       </div>
     </div>
 }
