@@ -34,7 +34,8 @@ function Projects()
               Automated resume screening increases quality of hire by reducing false positives
               because candidates can&apos;t trick the system through keyword stuffing. It also reduces
               false negatives because candidates with good qualifications no longer slip through the
-              keyword filters.
+              keyword filters. 
+              &nbsp;<span className={styles.githubLinks}><a href="https://github.com/swetha4444/Resume-Analyser-Software" target={"_blank"} rel="noreferrer"><Icon.FaGithub /></a></span>
             </p>        
             <br/>
             <a href="#" className="nes-badge"><span className="is-success">NLP</span></a>&nbsp;&nbsp; 
@@ -58,6 +59,7 @@ function Projects()
              Social media and customer reviews are the best ways to decide the quality of a 
              product. This project intends to help the user determine the reviews of the 
              produdct using state-of-the-art techniques.
+             &nbsp;<span className={styles.githubLinks}><a href="https://github.com/swetha4444/TwitterAnalysis-Product-Review" target={"_blank"} rel="noreferrer"><Icon.FaGithub /></a></span>
             </p>        
             <br/>
             <a href="#" className="nes-badge"><span className="is-success">NLP</span></a>&nbsp;&nbsp; 
@@ -91,6 +93,7 @@ function Projects()
               lockdown. This can automate the human task of monitoring public spaces if 
               social distancing rules are being followed. The program uses pre-trained models 
               like YOLO and FACE-NET to achieve the same through Computer Vision.
+              &nbsp;<span className={styles.githubLinks}><a href="https://github.com/swetha4444/Zenith-COV19" target={"_blank"} rel="noreferrer"><Icon.FaGithub /></a></span>
             </p>        
             <br/>
             <a href="#" className="nes-badge"><span className="is-success">Computer Vision</span></a>&nbsp;&nbsp; 
@@ -111,6 +114,7 @@ function Projects()
               A project which performs compression and decompression of images from the MNIST
               dataset using autoencoder and K-Means clustering and deployment of the model
               using Flask.
+              &nbsp;<span className={styles.githubLinks}><a href="https://github.com/swetha4444/Image-Compression-using-K-Means-Clustering-and-Autoencoders" target={"_blank"} rel="noreferrer"><Icon.FaGithub /></a></span>
             </p>        
             <br/>
             <a href="#" className="nes-badge"><span className="is-success">Image Compression</span></a>&nbsp;&nbsp; 
@@ -128,7 +132,9 @@ function Projects()
             <p>
               Keeping track of your expenses is an important part of managing your overall 
               finances. Using this application, one can not only keep an account of his/her 
-              expenses but can get a graphical insight of your overall spendings.<br/>
+              expenses but can get a graphical insight of your overall spendings.
+              &nbsp;<span className={styles.githubLinks}><a href="https://github.com/swetha4444/Expense-Tracker" target={"_blank"} rel="noreferrer"><Icon.FaGithub /></a></span>
+              <br/>
               <b>User Interface Design :</b> HTML, CSS, Bootstrap, Reat JS, Chart JS<br/>
               <b>Database:</b> MongoDB<br/>
               <b>Web Browser:</b> Google Chrome, Microsoft Edge<br/>
@@ -152,6 +158,7 @@ function Projects()
               and MySQL . Finally, we can say that this system will not only automate the process but save the 
               valuable time of the manager or the admin, which can be well utilized by his institute. This will 
               be an additional advantage and management of power based on their free time from his normal duty.
+              &nbsp;<span className={styles.githubLinks}><a href="https://github.com/swetha4444/Payroll-Management-System" target={"_blank"} rel="noreferrer"><Icon.FaGithub /></a></span>
             </p>        
             <br/>
             <a href="#" className="nes-badge"><span className="is-success">Agile Development</span></a>&nbsp;&nbsp; 
@@ -173,10 +180,11 @@ function Projects()
               our objective is to check the availability of the image obtained from the footage in the database. 
               The individual face extracted from the footage now needs to be processed and finally classified it 
               so that one image can be distinguished from another and to predict who the person is.
+              &nbsp;<span className={styles.githubLinks}><a href="https://github.com/swetha4444/CV-Attendance-System" target={"_blank"} rel="noreferrer"><Icon.FaGithub /></a></span>
             </p>        
             <br/>
             <a href="#" className="nes-badge"><span className="is-success">Computer Vision</span></a>&nbsp;&nbsp; 
-            <a href="#" className="nes-badge"><span className="is-success">Image dataset creation</span></a>&nbsp;&nbsp;
+            <a href="#" className="nes-badge"><span className="is-success">Dataset Creation</span></a>&nbsp;&nbsp;
             <a href="#" className="nes-badge"><span className="is-success">Image Processing</span></a>&nbsp;&nbsp;
             <a href="#" className="nes-badge"><span className="is-success">SVM</span></a>&nbsp;&nbsp;
         </div>

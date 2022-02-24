@@ -49,3 +49,8 @@
 .publishLinks{
     display: inline-block;
 }
+
+.githubLinks{
+    display: inline-block;
+    width: 10px;
+}
